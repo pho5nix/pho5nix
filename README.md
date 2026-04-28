@@ -22,12 +22,12 @@ I am working toward a Red Team role where I can bring together both sides of wha
 
 ## what I am building
 
-- **Red-Threat-Redemption-SIEM**: full SIEM stack on Debian 13 with Elasticsearch, Kibana, Wazuh, Zeek, Suricata and pfSense
-- **Eagle-Eye**: recon and vulnerability scanning agent with automated reporting and findings
-- **AI-Pentest-FM**: running notes on AI/LLM security and VAPT methodology
-- **Argos**: evidence gathering assistant for fraud analysts, fully self-hosted, no autonomous actions
-- **ActiveDirectory-Lab**: tiered AD environment for practising attack paths and privilege escalation
-- **d2s-los23-nethunter-kernel**: Kali NetHunter port for Samsung Galaxy Note 10 Plus on LineageOS 23
+- **Red-Threat-Redemption-SIEM** - full SIEM stack on Debian 13 with Elasticsearch, Kibana, Wazuh, Zeek, Suricata and pfSense
+- **Eagle-Eye** - recon and vulnerability scanning agent with automated reporting and findings
+- **AI-Pentest-FM** - running notes on AI/LLM security and VAPT methodology
+- **Argos** - evidence gathering assistant for fraud analysts, fully self-hosted, no autonomous actions
+- **ActiveDirectory-Lab** - tiered AD environment for practising attack paths and privilege escalation
+- **d2s-los23-nethunter-kernel** - Kali NetHunter port for Samsung Galaxy Note 10 Plus on LineageOS 23(Android 16)
 
 ## reach me
 
