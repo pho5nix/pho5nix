@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# whoami
+## whoami
 
 I got into IT through support services and systems administration, somewhere along the way the defensive side pulled me toward the offensive. These days I break things professionally, as conducting penetration testing and web application security assessments.
 
