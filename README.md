@@ -14,26 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Whoami
+# whoami
 
-I got into IT through systems administration and support and somewhere along the way the defensive side of security pulled me toward the offensive. These days I spend most of my time doing penetration testing and web application security assessments, running a home lab and grinding CTFs on HackTheBox to keep the fundamentals sharp.
+I got into IT through support services and systems administration, somewhere along the way the defensive side pulled me toward the offensive. These days I break things professionally, as conducting penetration testing and web application security assessments.
 
-The projects here reflect what I am actively learning and building. Some are lab environments I use for practice, some are tools I put together to solve specific problems and some are experiments with AI in a security context.
+I am working toward a Red Team role where I can bring together both sides of what I have learned.
 
-## What I am working on
+## what I am building
 
-**Red-Threat-Redemption-SIEM** is a full SIEM stack running on Debian 13, built around Elasticsearch, Kibana, Filebeat, Vector, Wazuh and Zeek on a secondary SPAN port NIC. pfSense handles perimeter duties with Suricata and pfBlocker feeding into syslog. It is the backbone of my home lab detection setup.
+- **Red-Threat-Redemption-SIEM**: full SIEM stack on Debian 13 with Elasticsearch, Kibana, Wazuh, Zeek, Suricata and pfSense
+- **Eagle-Eye**: recon and vulnerability scanning agent with automated reporting and findings
+- **AI-Pentest-FM**: running notes on AI/LLM security and VAPT methodology
+- **Argos**: evidence gathering assistant for fraud analysts, fully self-hosted, no autonomous actions
+- **ActiveDirectory-Lab**: tiered AD environment for practising attack paths and privilege escalation
+- **d2s-los23-nethunter-kernel**: Kali NetHunter port for Samsung Galaxy Note 10 Plus on LineageOS 23
 
-**Eagle-Eye** is a recon and vulnerability scanning agent built on OpenClaw. It handles decision making, report writing and findings with recommendations, essentially a lightweight pentest recon assistant.
+## reach me
 
-**AI-Pentest-FM** is a running collection of notes on AI and LLM security, focused on VAPT methodology in that space. It grows as I learn more about how these models can be tested and abused.
-
-**Argos** is an AI assistant built for fraud analysts that does evidence gathering and narrative writing, runs entirely on your own infrastructure and takes no autonomous actions. It is Privacy-first by design.
-
-**ActiveDirectory-Lab** is a tiered Active Directory environment for practising attack paths, privilege escalation and detection in a controlled setup.
-
-**d2s-los23-nethunter-kernel** is a Kali NetHunter port for the Samsung Galaxy Note 10 Plus running LineageOS 23. As there was no existing build I had to create it for my phone and of course then share with the community.
-
-## Where I am headed
-
-I am working toward a Red Team role where I can bring together what I have learned on both the defensive and offensive sides. If you are working on something in that space or just want to talk shop, feel free to reach out on [LinkedIn](https://linkedin.com/in/gmakris-cs) or read some of my write-ups on [Medium](https://medium.com/@georgemkrs).
+[LinkedIn](https://linkedin.com/in/gmakris-cs) · [Medium](https://medium.com/@georgemkrs)
