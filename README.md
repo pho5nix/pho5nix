@@ -24,7 +24,6 @@ I got into IT through support services and systems administration, somewhere alo
 - **Eagle-Eye** - recon and vulnerability scanning agent with automated reporting and findings
 - **AI-Pentest-FM** - running notes on AI/LLM security and VAPT methodology
 - **Red-Threat-Redemption-SIEM** - full SIEM stack on Debian 13 with Elasticsearch, Kibana, Wazuh, Zeek, Suricata and pfSense
-- **ActiveDirectory-Lab** - tiered AD environment for practising attack paths and privilege escalation
 - **Argos** - evidence gathering assistant for fraud analysts, fully self-hosted, no autonomous actions
 
 ## reach me
