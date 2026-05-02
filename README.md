@@ -20,9 +20,9 @@ I got into IT through support services and systems administration, somewhere alo
 
 ## what I am building
 
-- **d2s-los23-nethunter-kernel** - Kali NetHunter port for Samsung Galaxy Note 10 Plus on LineageOS 23(Android 16)
-- **Eagle-Eye** - recon and vulnerability scanning agent with automated reporting and findings
-- **Red-Threat-Redemption-SIEM** - full SIEM stack on Debian 13 with Elasticsearch, Kibana, Wazuh, Zeek, Suricata and pfSense
+- **d2s-los23-nethunter-kernel** - Kali NetHunter port for Samsung Galaxy Note 10 Plus on LineageOS 23(Android 16).
+- **Eagle-Eye** - recon and vulnerability scanning agent with automated reporting and findings.
+- **Red-Threat-Redemption-SIEM** - full SIEM stack on Debian 13 with Elasticsearch, Kibana, Wazuh, Zeek, Suricata and pfSense.
 - **Argos** - evidence gathering assistant for fraud analysts, fully self-hosted.
 
 ## reach me
