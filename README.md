@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## whoami
+## info
 
 I got into IT through support services and systems administration, somewhere along the way the defensive side pulled me toward the offensive. These days I break things professionally, as conducting penetration testing and web application security assessments.
 
-## what I am building
+## most popular repos
 
-- **d2s-los23-nethunter-kernel** - Kali NetHunter port for Samsung Galaxy Note 10 Plus on LineageOS 23(Android 16).
 - **Red-Threat-Redemption-SIEM** - full SIEM stack on Debian 13 with a SOC Agent for triage and threat hunting.
+- **d2s-los23-nethunter-kernel** - Kali NetHunter port for Samsung Galaxy Note 10 Plus on LineageOS 23(Android 16).
+- **BackToTheFlipper** - flipper zero asset pack for Momentum firmware based on Back to the Future movies.
 - **Eagle-Eye** - recon and vulnerability scanning agent with automated reporting and findings.
 
 ## reach me
