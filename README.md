@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ## info
 
-I got into IT through support services and systems administration, somewhere along the way the defensive side pulled me toward the offensive. These days I break things professionally, as conducting penetration testing and web application security assessments.
+Background in corporate IT, started in Help-Desk & Operations moved along to Systems administration and the path landed to Information Security. Somewhere along the way the defensive side pulled me toward the offensive. These days I break things professionally, conducting penetration testing and security assessments for web applications and internal infrastructure. Security research and my home lab fill my free time and curiosity for new things coming and unexplored areas.
 
-## most popular repos
+## some of my labs to explore 
 
 - **Red-Threat-Redemption-SIEM** - full SIEM stack on Debian 13 with a SOC Agent for triage and threat hunting.
 - **d2s-los23-nethunter-kernel** - Kali NetHunter port for Samsung Galaxy Note 10 Plus on LineageOS 23(Android 16).
