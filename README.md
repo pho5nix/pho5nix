@@ -20,9 +20,10 @@ Background in corporate IT, started in Help-Desk & Operations moved along to Sys
 
 ## labs to explore 
 
-- **Red-Threat-Redemption-SIEM** - full SIEM stack on Debian 13 with a SOC Agent for triage and threat hunting.
+- **Red-Threat-Redemption-SIEM** - Full SIEM stack on Debian 13 with a SOC Agent for triage and threat hunting.
 - **d2s-los23-nethunter-kernel** - Kali NetHunter port for Samsung Galaxy Note 10 Plus on LineageOS 23(Android 16).
-- **Eagle-Eye** - recon and vulnerability scanning agent with automated reporting and findings.
+- **Red-Team-GOAD-Lab-Proxmox**  - Red Team Operations Lab on a Proxmox host and segmented behind a pfSense firewall.
+- **Eagle-Eye** - Recon and vulnerability scanning agent with automated reporting and findings.
 
 ## reach me
 
